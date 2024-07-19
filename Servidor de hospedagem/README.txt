@@ -1,0 +1,1 @@
+Projeto de hospedagem gerenciada via servidor dedicado.
